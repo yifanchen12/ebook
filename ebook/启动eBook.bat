@@ -1,5 +1,4 @@
 @echo off
 cd /d "%~dp0.."
-python -m ebook.app
+python -m ebook.desktop
 pause
-

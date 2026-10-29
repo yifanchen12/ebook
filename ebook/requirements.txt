@@ -1,2 +1,2 @@
 Pillow>=10,<13
-
+pywebview>=6.2,<7
